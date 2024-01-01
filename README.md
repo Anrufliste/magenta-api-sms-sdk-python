@@ -1,17 +1,15 @@
-# dt-sms-api-sdk-python ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Anrufliste/dt-sms-api-sdk-python) [![Test](https://github.com/Anrufliste/dt-sms-api-sdk-python/actions/workflows/test.yml/badge.svg)](https://github.com/Anrufliste/dt-sms-api-sdk-python/actions/workflows/test.yml)
+# magenta-api-sms-sdk-python ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Anrufliste/magenta-api-sms-sdk-python) [![Test](https://github.com/Anrufliste/magenta-api-sms-sdk-python/actions/workflows/test.yml/badge.svg)](https://github.com/Anrufliste/magenta-api-sms-sdk-python/actions/workflows/test.yml)
 
-This library is meant as an unofficial SDK (Software Development Kit) for the [Deutsche Telekom Developer SMS API](https://developer.telekom.com/products/sms-api/summary) and to give Python developers a quick start to use it withing their code.
-
-~~Please read the instructions on Deutsche Telekom Developer Portal and set up your account there to get the needed credentials.~~ 
-
-![Retirement notification of Deutsche Telekom Developer Portal](developer-telekom-com-announcement.png)
-
+This library started as an unofficial SDK (Software Development Kit) for the [Deutsche Telekom Developer SMS API](https://developer.telekom.com/products/sms-api/summary) and to give Python developers a quick start to use it withing their code. After one year that portal has been replaced by Deutsche Telekom with [Magenta Business API](https://api.telekom.net) and this repository will try to adapt its functionality to the new portal. The original code can be found at [dt-sms-api-sdk-python](https://github.com/Anrufliste/dt-sms-api-sdk-python).
 
 To use the SDK, you may install it with pip:
 
 ```
 pip install unofficial-dt-sms-api-sdk
 ```
+
+The following functionallitly is currently not yet adapted...
+
 
 ## SMS - (Short Message Service)
 
